@@ -1,0 +1,18 @@
+1. How was the information collected, was it collected by search results or surveyed individuals? How were all foods compared equally in each state, did individuals taking the survey look at a list or the first thing they say?
+
+2. https://trends.google.com/trends/ 
+
+3A. The highest was closest to the 28th at the end with a recorded number of 100.
+3b. The lowest dip was 64 in and around November to December.
+
+4A. The highest was in July sitting at 100. The lowest was in November - December with a number of 72.
+4B. Milkshakes decreased by a significant amount when burgers was added. The time periods where they dropped and increased are the same, however the numbers are significantly lower.
+
+5.The average search interest for each search term for the specified time period. The search results were averaged again when hamburgers were added to the picture.
+
+6. There is a very close trend between breakup and milkshakes. Their lines are not overlapping but within expecting values. There doesn't seem to be too much a trend with hamburgers as there is a great discrepancy between the two.
+
+7.There isn't conclusive breakup foods that are the most common, but there is a possible trend given how much milkshakes and breakup are close in search results.
+
+8A. The top interest was North Carolina.
+8B.The top interest is South Dakota.
