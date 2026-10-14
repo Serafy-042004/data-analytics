@@ -1,0 +1,36 @@
+1. Start by reviewing the data.gov home page. What is this?
+	This is a data warehouse containing various sorts of data published by agencies across the federal government.
+2. Go to Most Viewed Datasets. How many datasets are listed?
+	It lists a number of 590,245 published data sets.
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+	It seems the keyword for Human health is tagged to these databases because it outlines the impact of certain human consumptions either directly or indirectly affect humans.
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA?
+	You can click on the link in the publishers sections. It will link to all additional data sets published by the Department of Agriculture
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+
+6. Try searching for your city, county, and state. What organizations are returned?
+	The only organizations I found were city of Los Angles, city of San Francisco, and state of California. Only state returned any results.
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results?
+	It narrowed my search results from 3107 to 211 datasets published by USDA.
+
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for.
+
+8. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result?
+	It shows the supply and demand of dairy products that is updated every week.
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+Foundation foods, SR Legacy, FNDDS, Experimental foods, Branded foods. There is a read more section that includes more information about the data. the largest is Branded foods with 3.1 GB of data.
